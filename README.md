@@ -1,4 +1,4 @@
-#💰 Lottery System - Smart Contract 📃
+# 💰Lottery System - Smart Contract 📃
 
 ## Overview
 This project implements a **Lottery System** using **Solidity** on the Ethereum blockchain. Participants can enter the lottery by sending **ETH** to the smart contract. The winner is randomly selected, and the prize pool is distributed accordingly.
