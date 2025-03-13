@@ -17,7 +17,7 @@ This project implements a **Lottery System** using **Solidity** on the Ethereum 
 - `getBalance() public view`: Returns the total balance of the lottery contract.
 - `pickWinner() public`: Selects a random winner and transfers the total prize to them. Only the manager can call this function.
 
-## How to Use
+## How to Use 🧑‍💻
 ### 1. Deploy the Smart Contract
 - Use **Remix IDE** or any Ethereum development environment.
 - Deploy the `Lottery.sol` contract.
